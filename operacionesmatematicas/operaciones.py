@@ -7,7 +7,7 @@
 # print("Suma = " + str(suma))
 # print(f"Suma = {suma}")
 
-# se debe configurar
+# se debe configurahdr
 # numero3 =float(input("Escribe un numero: "))
 
 numero3 =int(input("Escribe un numero: "))
